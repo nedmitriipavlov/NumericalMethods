@@ -7,3 +7,11 @@ Solution nonlinear (nonlinear.py) and linear (gauss.py) equations systems using 
 
 ## Interpolation
 Making interpolation using Newton's interpolation (newton.py) and Spline interpolation (spline.py)
+
+## Numerical integration
+Integral calculation using trapezoid method, Simpson method and rectangle method (integration.py)
+
+## Numerical differentation
+Numerical deifferentation realized using devided difference (numericaldifferentation.py)
+
+## 
