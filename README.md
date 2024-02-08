@@ -6,3 +6,4 @@ Nonlinear equations were solved using method of fixed point iteration (iteration
 Solution nonlinear (nonlinear.py) and linear (gauss.py) equations systems using Newton's and Gauss method respictevely
 
 ## Interpolation
+Making interpolation using Newton's interpolation (newton.py) and Spline interpolation (spline.py)
